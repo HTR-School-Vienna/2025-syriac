@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2025-syriac
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ephrem
+    family-names: Isaac
+    orcid: 'https://orcid.org/0000-0003-2943-6556'
+  - given-names: Christine
+    family-names: Roughan
+    orcid: 'https://orcid.org/0009-0004-5999-8749'
+  - given-names: Julius
+    family-names: Balski
+    orcid: 'https://orcid.org/0009-0009-8607-2403'
+  - given-names: Nima
+    family-names: Jamali
+    orcid: 'https://orcid.org/0009-0001-3958-8783'
+  - given-names: Jeanette
+    family-names: Kilicci
+    orcid: 'https://orcid.org/0009-0009-1968-9016'
+  - given-names: Chia-Wei
+    family-names: Lin
+    orcid: 'https://orcid.org/0009-0002-0545-2623'
+  - given-names: Andrei
+    family-names: Macar
+    orcid: 'https://orcid.org/0009-0001-5473-9017'
+  - given-names: Branko
+    family-names: Malesevic
+    orcid: 'https://orcid.org/0009-0008-2419-6323'
+  - given-names: Stefan
+    family-names: Maric
+  - given-names: Daniele
+    family-names: Reano
+    orcid: 'https://orcid.org/0009-0005-6360-8907'
+  - given-names: Rita
+    family-names: Sawaya
+  - given-names: Jonathan
+    family-names: Stutz
+    orcid: 'https://orcid.org/0009-0000-3204-6327'
+identifiers:
+  - type: doi
+    value: [TO_DO]
+repository-code: [TO_DO]
+repository: 'https://github.com/HTR-School-Vienna/2025-syriac/tree/main'
+abstract: 114 images of ground truth for Syriac HTR.
+keywords:
+  - HTR
+  - Syriac
+  - Estrangelo
+  - 12th century
+license: CC-BY-SA-4.0
