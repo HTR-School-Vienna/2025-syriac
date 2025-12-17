@@ -44,8 +44,8 @@ authors:
     orcid: 'https://orcid.org/0009-0000-3204-6327'
 identifiers:
   - type: doi
-    value: [TO_DO]
-repository-code: [TO_DO]
+    value: {{TO_DO}}
+repository-code: {{TO_DO}}
 repository: 'https://github.com/HTR-School-Vienna/2025-syriac/tree/main'
 abstract: 114 images of ground truth for Syriac HTR.
 keywords:
