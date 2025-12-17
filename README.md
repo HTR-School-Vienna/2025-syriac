@@ -10,7 +10,7 @@ Ground truth of 114 bifolio images of MS Jerusalem, Saint Mark's Monastery 36. T
 
 ### Origin of the data
 
-[FILL IN IMAGE SOURCE HERE]
+{{FILL IN IMAGE SOURCE HERE}}
 
 An online digitization of the manuscript may also be viewed in the virtual reading room of the Hill Museum & Manuscript Library at the shelfmark [SMMJ 00036](https://w3id.org/vhmml/readingRoom/view/126351).
 
@@ -44,9 +44,10 @@ Transkribus's `unclear` tag was used when readings were uncertain or the text wa
 - `LICENSE.md`
 - `README.md`
 - `htr-united.yml`
-- `alto/`: the ground truth in ALTO XML format, exported from eScriptorium
-- `page/`: the ground truth in PAGE XML format, exported from Transkribus
-- `images/`: the corresponding image files
+- `SMMJ_00036`
+  - `alto/`: the ground truth in ALTO XML format, exported from eScriptorium
+  - `page/`: the ground truth in PAGE XML format, exported from Transkribus
+  - `images/`: the corresponding image files
 
 ## How to cite
 
@@ -55,8 +56,8 @@ This dataset was created by: Ephrem Aboud Ishac, Christine Roughan, Julius Balsk
 If you use any item from this corpus as ground truth, cite the dataset using the following information:
 
 ```
-[ZENODO CITATION HERE]
+{{ZENODO CITATION HERE}}
 ```
 
 ## Copyright and licence
-This dataset was created as part of the Winter School of Handwritten Text Recognition of Medieval Manuscripts 2025, Vienna at the Österreichische Akademie der Wissenschaften, Institut für Mittelalterforschung, all transcriptions are licensed under the Creative Commons 4 licence. Images were provided by the [IMAGE SOURCE HERE] and are licensed under Creative Commons 4 licence.
+This dataset was created as part of the Winter School of Handwritten Text Recognition of Medieval Manuscripts 2025, Vienna at the Österreichische Akademie der Wissenschaften, Institut für Mittelalterforschung, all transcriptions are licensed under the Creative Commons 4 licence. Images were provided by the {{IMAGE SOURCE HERE}} and are licensed under Creative Commons 4 licence.
