@@ -56,7 +56,7 @@ This dataset was created by: Ephrem Aboud Ishac, Christine Roughan, Julius Balsk
 If you use any item from this corpus as ground truth, cite the dataset using the following information:
 
 ```
-{{ZENODO CITATION HERE}}
+Ishac, E. A., Roughan, C., Balski, J., Jamali, N., Kilicci, J., Lin, C.-W., Macar, A., Malesevic, B., Maric, S., Reano, D., Sawaya, R., & Stutz, J. (2026). HTR Winter School 2025 - Syriac, MS Jerusalem, Saint Mark's Monastery 36 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18157525
 ```
 
 ## Copyright and licence
