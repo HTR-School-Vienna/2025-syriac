@@ -1,5 +1,5 @@
 # 2025-syriac
-Ground truth of 114 bifolio images of MS Jerusalem, Saint Mark's Monastery 36. This ground truth was produced by participants of the Vienna 2025 HTR Winter School, who used Transkribus to manually correct a preliminary automatic transcription that had been generated using a Kraken model (DOI [10.5281/zenodo.17406773](doi.org/10.5281/zenodo.17406773)).
+Ground truth of 133 bifolio images of MS Jerusalem, Saint Mark's Monastery 36. This ground truth was produced by participants of the Vienna 2025 HTR Winter School, who used Transkribus to manually correct a preliminary automatic transcription that had been generated using a Kraken model (DOI [10.5281/zenodo.17406773](doi.org/10.5281/zenodo.17406773)).
 
 ## Description
 
@@ -10,7 +10,7 @@ Ground truth of 114 bifolio images of MS Jerusalem, Saint Mark's Monastery 36. T
 
 ### Origin of the data
 
-{{FILL IN IMAGE SOURCE HERE}}
+We are thankful to the St Mark's Syrian Orthodox Monastery - Jerusalem for providing us with the digital images of MS 36 and for allowing us to use and share these images to support research with Syriac handwritten text recognition.
 
 An online digitization of the manuscript may also be viewed in the virtual reading room of the Hill Museum & Manuscript Library at the shelfmark [SMMJ 00036](https://w3id.org/vhmml/readingRoom/view/126351).
 
@@ -60,4 +60,4 @@ If you use any item from this corpus as ground truth, cite the dataset using the
 ```
 
 ## Copyright and licence
-This dataset was created as part of the Winter School of Handwritten Text Recognition of Medieval Manuscripts 2025, Vienna at the Österreichische Akademie der Wissenschaften, Institut für Mittelalterforschung, all transcriptions are licensed under the Creative Commons 4 licence. Images were provided by the {{IMAGE SOURCE HERE}} and are licensed under Creative Commons 4 licence.
+This dataset was created as part of the Winter School of Handwritten Text Recognition of Medieval Manuscripts 2025, Vienna at the Österreichische Akademie der Wissenschaften, Institut für Mittelalterforschung, all transcriptions are licensed under the Creative Commons 4 licence. Images were provided by the St Mark's Syrian Orthodox Monastery - Jerusalem and are licensed under Creative Commons 4 licence.

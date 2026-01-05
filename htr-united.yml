@@ -2,7 +2,7 @@ schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: >-
   MS Jerusalem, Saint Mark’s Monastery 36, Ground Truth from HTR Winter School
   2025
-url: '{{ADD ZENODO}}'
+url: 'https://doi.org/10.5281/zenodo.18157525'
 authors:
   - name: Ephrem
     surname: Aboud Ishac
@@ -62,7 +62,7 @@ authors:
       - transcriber
 institutions: []
 description: >-
-  Ground truth of 114 bifolio images of MS Jerusalem, Saint Mark’s Monastery 36.
+  Ground truth of 133 bifolio images of MS Jerusalem, Saint Mark’s Monastery 36.
   This ground truth was produced by participants of the Vienna 2025 HTR Winter
   School, who used Transkribus to manually correct a preliminary automatic
   transcription that had been generated using Kraken/eScriptorium.
@@ -85,7 +85,11 @@ license:
 format: Page-XML
 volume:
   - metric: pages
-    count: 228
+    count: 266
+  - metric: lines
+    count: 17836
+  - metric: characters
+    count: 311392
 citation-file-link: https://github.com/HTR-School-Vienna/2025-syriac/blob/main/CITATION.cff
 transcription-guidelines: >-
   The segmentation of the folios followed the SegmOnto vocabulary for annotation
