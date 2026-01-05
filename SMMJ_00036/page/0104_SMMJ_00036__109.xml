@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2025-12-21T13:36:41.071588-05:00</Created>
+        <LastChange>2026-01-05T20:59:24.466+01:00</LastChange>
+        <TranskribusMetadata docId="11622279" pageId="104805670" pageNr="104" tsid="271130203" status="DONE" userId="183922" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NWJPGWDHVXQAHLZJPXGZLSVZ" xmlUrl="https://files.transkribus.eu/Get?id=KXJNXQDOMFUXRAFTBGWXHCBC" imageId="87945646"/>
+    </Metadata>
+    <Page imageFilename="0104_SMMJ_00036__109.JPG" imageWidth="5616" imageHeight="3744">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1767643917311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_ab477438"/>
+                <RegionRefIndexed index="2" regionRef="r_4"/>
+                <RegionRefIndexed index="3" regionRef="eSc_textblock_c4a483da"/>
+                <RegionRefIndexed index="4" regionRef="eSc_textblock_71eb091b"/>
+                <RegionRefIndexed index="5" regionRef="r_5"/>
+                <RegionRefIndexed index="6" regionRef="eSc_textblock_c05b97a1"/>
+                <RegionRefIndexed index="7" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:MarginTextZone;}">
+            <Coords points="4257,1353 4263,1241 4347,1253 4418,1258 4407,1322 4424,1421 4263,1425"/>
+            <TextLine id="l" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="4258,1350 4258,1354 4258,1394 4311,1382 4408,1397 4414,1357 4414,1301 4318,1272 4314,1272 4311,1272 4308,1272 4305,1272 4274,1288 4258,1350"/>
+                <Baseline points="4261,1355 4416,1358"/>
+                <TextEquiv>
+                    <Unicode>.܏ܠܗ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_ab477438" custom="readingOrder {index:1;} structure {type:MainZone;}">
+            <Coords points="4224,599 4241,624 4257,2252 4249,2934 4224,3001 3602,2993 3511,2943 3567,2557 3522,2391 3511,632 3563,590"/>
+            <TextLine id="eSc_line_2d72818f" custom="readingOrder {index:0;} structure {type:DefaultLine;} unclear {offset:4; length:4;}">
+                <Coords points="3534,611 3534,652 3531,680 3678,686 3719,717 3722,717 3725,717 4227,723 4233,689 4233,624 3890,595 3887,595 3884,595 3818,611 3547,602 3534,611"/>
+                <Baseline points="3536,653 3787,659 3939,678 4236,692"/>
+                <TextEquiv>
+                    <Unicode>ܡܪܝ ܠܡܢܐ ܠܐ ܡܫ̣ܟܚ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_f34d17f9" custom="readingOrder {index:1;} structure {type:DefaultLine;}">
+                <Coords points="4236,726 4218,705 3550,689 3550,739 3547,761 3622,783 3625,783 3628,783 3731,773 3821,801 3825,801 3828,801 3946,789 3974,808 3977,808 3981,808 4202,817 4205,817 4208,817 4212,817 4212,814 4233,792 4236,770 4236,742 4236,726"/>
+                <Baseline points="3552,740 4239,771"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̣ܐ ܕܐܬܐ ܒܬܪܟ ܗܫܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_69bdfe36" custom="readingOrder {index:2;} structure {type:DefaultLine;}">
+                <Coords points="3553,817 3550,848 3575,864 3578,864 3581,864 3584,864 3812,854 4155,886 4158,886 4236,867 4240,842 4236,798 3993,792 3959,764 3956,764 3953,764 3949,764 3825,783 3743,755 3740,755 3553,755 3553,817"/>
+                <Baseline points="3554,819 3879,825 4243,844"/>
+                <TextEquiv>
+                    <Unicode>ܢܦܫܝ ܚܠܦܝܟ ܣ̇ܐܡ ܐܢ̣ܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_45fec81a" custom="readingOrder {index:3;} structure {type:DefaultLine;}">
+                <Coords points="3553,882 3550,907 3628,932 3631,932 3634,932 3775,920 3931,945 3934,945 4059,932 4202,954 4205,954 4208,954 4212,954 4230,939 4233,911 4233,864 3553,836 3553,882"/>
+                <Baseline points="3554,884 4236,913"/>
+                <TextEquiv>
+                    <Unicode>ܐܡ̇ܪ ܠܗ ܝܫܘܥ. ܢܦܫܟ..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c38d0e14" custom="readingOrder {index:4;} structure {type:DefaultLine;}">
+                <Coords points="3541,951 3538,973 3650,979 3675,1001 3675,1004 3678,1004 3681,1004 3778,1007 3781,1007 3784,1007 3787,1007 3818,989 3878,1010 3881,1010 3884,1010 3887,1010 3918,995 4015,1017 4018,1020 4240,1020 4243,982 4243,942 4052,935 4031,914 4027,914 4024,914 4021,914 3937,926 3890,907 3887,907 3884,907 3644,914 3609,895 3606,895 3603,895 3600,895 3597,895 3541,911 3541,951"/>
+                <Baseline points="3544,954 4245,985"/>
+                <TextEquiv>
+                    <Unicode>ܚܠܦܝ ܣ̇ܐܡ ܐܢܬ. ܐܡܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_87f2080e" custom="readingOrder {index:5;} structure {type:DefaultLine;}">
+                <Coords points="3912,970 3903,967 3903,970 3881,989 3787,976 3784,976 3781,976 3712,998 3669,967 3665,967 3662,967 3575,967 3572,967 3569,967 3566,967 3538,989 3541,1038 3541,1067 3768,1067 3821,1092 3825,1092 3828,1092 3831,1092 3918,1070 3993,1088 3996,1088 3999,1088 4243,1076 4246,1048 4236,998 4087,998 4055,979 4052,979 4049,979 4046,979 4043,979 4040,979 4015,998 3924,970 3912,970"/>
+                <Baseline points="3544,1041 3594,1053 4247,1050"/>
+                <TextEquiv>
+                    <Unicode>ܐܡܝܢ ܐܡ̇ܪ ܐܢ̣ܐ ܠܟ. ܕܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1f134af9" custom="readingOrder {index:6;} structure {type:DefaultLine;}">
+                <Coords points="4240,1082 3747,1051 3740,1051 3709,1051 3678,1051 3647,1051 3616,1051 3584,1051 3553,1045 3553,1095 3550,1123 3612,1141 3616,1141 3619,1141 3856,1129 3887,1154 3890,1154 3893,1154 4055,1163 4059,1163 4236,1145 4240,1129 4240,1098 4240,1082"/>
+                <Baseline points="3556,1098 4241,1131"/>
+                <TextEquiv>
+                    <Unicode>ܢܩܪܐ ܬܪܢܓܠܐ ܥܕܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8bf97218" custom="readingOrder {index:7;} structure {type:DefaultLine;}">
+                <Coords points="4158,1126 4155,1126 4115,1145 3903,1141 3884,1113 3881,1113 3878,1113 3846,1110 3815,1110 3790,1107 3750,1132 3725,1110 3725,1107 3722,1107 3719,1107 3715,1107 3712,1107 3637,1129 3534,1126 3534,1170 3531,1198 3619,1226 3622,1226 3625,1226 3703,1210 3768,1229 3772,1229 3775,1229 3778,1229 3781,1229 3781,1226 3797,1210 3828,1226 3831,1226 3834,1226 4040,1223 4071,1241 4074,1241 4077,1241 4080,1241 4236,1232 4240,1194 4240,1151 4165,1126 4158,1126"/>
+                <Baseline points="3536,1173 4243,1198"/>
+                <TextEquiv>
+                    <Unicode>ܕܬܟܦܘܪ ܒܝ ܬܠ̈ܬ ܙܒ̈ܢܝܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1b3dbef1" custom="readingOrder {index:8;} structure {type:DefaultLine;}">
+                <Coords points="3553,1254 3550,1276 3818,1282 3868,1307 3871,1307 3875,1307 4246,1297 4249,1269 4246,1226 3949,1198 3946,1198 3943,1198 3878,1213 3828,1194 3825,1194 3821,1194 3553,1198 3553,1254"/>
+                <Baseline points="3555,1256 3960,1268 4251,1270"/>
+                <TextEquiv>
+                    <Unicode>ܒܕܘܟܪܢܐ ܕܬܐܘܡܐ ܫܠܝܠܚܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_38d0f311" custom="readingOrder {index:9;} structure {type:DefaultLine;}">
+                <Coords points="3787,1263 3756,1263 3740,1260 3684,1269 3669,1260 3662,1260 3631,1257 3600,1257 3578,1257 3566,1257 3566,1307 3563,1341 4221,1391 4227,1363 4224,1316 4012,1276 4009,1276 4006,1276 3940,1291 3806,1263 3787,1263"/>
+                <Baseline points="3567,1309 4229,1365"/>
+                <TextEquiv>
+                    <Unicode>ܘܕܦܝܠܥܦܘܣ ܫܠܝܚܐ ܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ca70d29b" custom="readingOrder {index:10;} structure {type:DefaultLine;}">
+                <Coords points="3578,1397 4183,1457 4187,1457 4190,1457 4227,1441 4230,1416 4227,1369 3587,1322 3584,1360 3578,1397"/>
+                <Baseline points="3586,1363 3722,1394 3985,1401 4233,1419"/>
+                <TextEquiv>
+                    <Unicode>ܢܬܕܘܕ ܠܒܟܘܢ. ܗ̇ܝܡܢܘ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_88a84a13" custom="readingOrder {index:11;} structure {type:DefaultLine;}">
+                <Coords points="3734,1394 3712,1388 3650,1382 3647,1382 3578,1388 3575,1435 3572,1453 4227,1516 4233,1491 4233,1447 4130,1419 4127,1419 4124,1419 4121,1419 4071,1432 4062,1416 4059,1416 4059,1413 4055,1413 4052,1413 4049,1413 3962,1422 3743,1394 3734,1394"/>
+                <Baseline points="3576,1436 4235,1492"/>
+                <TextEquiv>
+                    <Unicode>  ܒܐܠܗܐ ܘܒܝ ܗ̇ܝܡܢܘ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_3e28c90a" custom="readingOrder {index:12;} structure {type:DefaultLine;}">
+                <Coords points="4249,1513 4205,1491 4202,1491 3990,1491 3825,1457 3815,1457 3793,1453 3737,1466 3650,1441 3628,1441 3616,1438 3566,1450 3563,1503 3559,1516 3775,1559 3778,1559 3987,1556 3999,1575 4002,1575 4002,1578 4006,1578 4009,1578 4099,1588 4102,1588 4246,1575 4249,1563 4249,1531 4249,1513"/>
+                <Baseline points="3566,1505 4251,1564"/>
+                <TextEquiv>
+                    <Unicode>ܣ̈ܓܝܐܝܢ ܐܢܘܢ ܐܘ̈ܢܐ ܒܝܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_438a56fa" custom="readingOrder {index:13;} structure {type:DefaultLine;}">
+                <Coords points="4227,1566 4208,1563 4205,1563 4202,1563 4199,1563 4155,1581 4087,1553 4084,1553 4080,1553 4077,1553 4034,1566 4009,1544 4006,1544 3974,1541 3943,1538 3912,1535 3890,1531 3875,1547 3825,1528 3818,1528 3800,1525 3750,1541 3566,1522 3566,1569 3559,1609 3965,1656 3968,1656 4052,1650 4080,1669 4084,1669 4087,1669 4090,1669 4243,1666 4249,1637 4249,1597 4227,1566"/>
+                <Baseline points="3568,1571 4251,1641"/>
+                <TextEquiv>
+                    <Unicode>ܐܒܝ. ܘܐܠܐ ܐܡ̇ܪ ܗܘܝܬ ܠܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1ccd0bda" custom="readingOrder {index:14;} structure {type:DefaultLine;}">
+                <Coords points="4233,1650 4196,1634 4193,1634 4190,1634 4043,1641 4006,1619 4002,1619 3999,1619 3996,1619 3843,1625 3768,1600 3765,1600 3762,1600 3759,1600 3725,1616 3678,1594 3675,1594 3672,1594 3547,1600 3544,1650 3541,1672 3772,1719 3775,1719 3887,1703 4006,1737 4009,1737 4012,1737 4124,1728 4158,1750 4162,1750 4165,1750 4168,1750 4171,1750 4243,1728 4246,1706 4246,1694 4233,1650"/>
+                <Baseline points="3546,1651 4249,1708"/>
+                <TextEquiv>
+                    <Unicode> ܠܟܘܢ܇ ܕܐܙ̇ܠ ܐܢ̣ܐ ܕܐܛܝܒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_88d0f8b7" custom="readingOrder {index:15;} structure {type:DefaultLine;}">
+                <Coords points="3572,1719 3569,1753 3634,1753 3650,1775 3653,1775 3653,1778 3656,1778 3659,1778 3662,1778 3665,1778 3669,1778 3715,1744 3753,1744 3790,1793 3793,1793 3793,1797 3797,1797 3800,1797 3909,1806 3912,1806 4006,1803 4009,1803 4012,1803 4055,1772 4115,1775 4127,1793 4130,1793 4130,1797 4134,1797 4137,1797 4140,1797 4252,1784 4255,1775 4252,1734 4059,1697 4055,1697 4052,1697 3999,1709 3909,1687 3906,1687 3684,1687 3650,1662 3647,1662 3644,1662 3641,1662 3572,1675 3572,1719"/>
+                <Baseline points="3575,1721 4258,1777"/>
+                <TextEquiv>
+                    <Unicode>ܠܟܘܢ ܐܬܪܐ. ܘܐܢ ܐܙܠ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_dd2cc20c" custom="readingOrder {index:16;} structure {type:DefaultLine;}">
+                <Coords points="4183,1772 4152,1769 4121,1765 4090,1762 4059,1759 4027,1759 4006,1778 3896,1775 3881,1753 3878,1753 3878,1750 3875,1750 3871,1750 3868,1750 3865,1750 3803,1769 3747,1734 3743,1734 3740,1734 3737,1734 3734,1734 3731,1734 3731,1737 3709,1756 3634,1731 3631,1731 3628,1731 3625,1731 3559,1753 3559,1803 3556,1822 3606,1815 3743,1837 3747,1837 3750,1837 3803,1822 4012,1847 4015,1847 4018,1847 4046,1834 4171,1859 4174,1859 4177,1859 4230,1840 4233,1837 4230,1781 4190,1772 4183,1772"/>
+                <Baseline points="3563,1806 4235,1838"/>
+                <TextEquiv>
+                    <Unicode>ܐܛܝܒ ܠܟܘܢ ܐܬܪܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_04e29fdb" custom="readingOrder {index:17;} structure {type:DefaultLine;}">
+                <Coords points="4227,1837 4134,1834 4127,1831 4105,1834 4093,1831 4009,1828 4002,1825 3999,1831 3990,1825 3946,1825 3943,1822 3937,1831 3899,1822 3697,1812 3694,1809 3541,1815 3541,1865 3538,1884 3597,1887 3631,1918 3641,1921 3690,1921 3690,1918 3697,1918 3728,1893 3806,1893 3837,1921 3837,1925 3850,1925 3915,1909 3993,1928 4006,1928 4006,1925 4031,1903 4071,1931 4080,1931 4233,1915 4236,1887 4233,1831 4227,1831 4227,1837"/>
+                <Baseline points="3544,1867 4239,1890"/>
+                <TextEquiv>
+                    <Unicode>ܬܘܒ ܐܬܐ ܘܐܕܒܪܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b4fe8f2a" custom="readingOrder {index:18;} structure {type:DefaultLine;}">
+                <Coords points="3547,1943 3544,1965 3821,1999 3825,1999 3940,1978 3962,1999 3962,2003 3965,2003 3968,2003 3971,2003 3974,2003 4037,1984 4174,2006 4177,2006 4180,2006 4236,1981 4240,1959 4236,1915 4037,1893 4034,1893 4031,1893 4009,1906 3990,1890 3987,1890 3984,1890 3981,1890 3853,1900 3834,1884 3834,1881 3831,1881 3828,1881 3825,1881 3547,1896 3547,1943"/>
+                <Baseline points="3550,1944 4243,1961"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܝ. ܕܐܝܟܐ ܕܐܢ̇ܐ ܐܝܬܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_6c0d6525" custom="readingOrder {index:19;} structure {type:DefaultLine;}">
+                <Coords points="3538,2012 3534,2046 3709,2065 3712,2065 3859,2046 3893,2071 3896,2071 3899,2071 3903,2071 3906,2071 3971,2049 4059,2071 4062,2071 4065,2071 4068,2071 4071,2071 4071,2068 4087,2052 4140,2077 4143,2077 4146,2077 4230,2059 4233,2031 4233,1981 4224,1971 4221,1971 4221,1968 4218,1968 4215,1968 4212,1968 4208,1968 4162,1984 4109,1965 4105,1965 3538,1965 3538,2012"/>
+                <Baseline points="3540,2013 4236,2032"/>
+                <TextEquiv>
+                    <Unicode>ܐܦ ܐܢܬܘܢ ܬܗܘܘܢ. ܘܠܐܝܟܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_44b99706" custom="readingOrder {index:20;} structure {type:DefaultLine;}">
+                <Coords points="4009,2027 3993,2024 3931,2046 3772,2021 3768,2021 3765,2021 3762,2021 3737,2043 3541,2043 3541,2090 3538,2112 3606,2115 3634,2140 3637,2140 3641,2140 3644,2140 3765,2118 4006,2146 4009,2149 4199,2149 4199,2146 4202,2146 4205,2146 4236,2121 4240,2099 4236,2052 4087,2031 4084,2031 4080,2031 4077,2031 4059,2049 4015,2027 4009,2027"/>
+                <Baseline points="3542,2092 4241,2102"/>
+                <TextEquiv>
+                    <Unicode>ܕܐܙ̇ܠ ܐܢ̣ܐ ܝܕܥܝܢ ܐܢܬܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_3f86fcb8" custom="readingOrder {index:21;} structure {type:DefaultLine;}">
+                <Coords points="3628,2093 3628,2152 3625,2171 3747,2196 3750,2196 3753,2196 3800,2174 3946,2196 3949,2196 3953,2196 3984,2184 4046,2212 4049,2212 4168,2218 4171,2218 4174,2218 4227,2193 4230,2184 4230,2137 4071,2115 4068,2115 3881,2121 3812,2099 3809,2099 3806,2099 3678,2109 3637,2093 3628,2093"/>
+                <Baseline points="3629,2154 4232,2184"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܘܪܚܐ ܝܕܥܝܢ ܐܢܬܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_5c8c9365" custom="readingOrder {index:22;} structure {type:DefaultLine;}">
+                <Coords points="3990,2174 3959,2171 3928,2171 3896,2168 3865,2165 3834,2165 3803,2162 3759,2174 3647,2155 3647,2155 3644,2152 3594,2146 3591,2146 3587,2146 3553,2162 3553,2208 3550,2243 4249,2277 4255,2240 4255,2199 4012,2174 3990,2174"/>
+                <Baseline points="3554,2211 4257,2242"/>
+                <TextEquiv>
+                    <Unicode> ܀ܐܡ̈ܪ ܠܗ ܬܐܘܡܐ. ܡܪܢ܆</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_77d26819" custom="readingOrder {index:23;} structure {type:DefaultLine;}">
+                <Coords points="3528,2280 3525,2305 3881,2343 3884,2343 3984,2327 4009,2346 4012,2346 4015,2346 4171,2349 4174,2349 4177,2349 4233,2324 4236,2299 4230,2252 4027,2252 3912,2230 3909,2230 3906,2230 3903,2230 3878,2249 3821,2227 3818,2227 3815,2227 3703,2237 3647,2221 3644,2221 3641,2221 3528,2240 3528,2280"/>
+                <Baseline points="3529,2281 4239,2302"/>
+                <TextEquiv>
+                    <Unicode>ܠܐ ܝܕܥܝܢܢ ܠܐܝܟܐ ܐܙ̇ܠ ܐܢܬ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_79eda12b" custom="readingOrder {index:24;} structure {type:DefaultLine;}">
+                <Coords points="3519,2349 3516,2374 3609,2396 3612,2396 3740,2386 3750,2399 3753,2399 3753,2402 3756,2402 3759,2402 3762,2402 3765,2402 3809,2389 4240,2418 4246,2380 4243,2333 3519,2302 3519,2349"/>
+                <Baseline points="3521,2352 3864,2358 4247,2381"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܝܟܢܐ ܡܫܟܚܝܢ ܐܘܪܚܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_372179e3" custom="readingOrder {index:25;} structure {type:DefaultLine;}">
+                <Coords points="3519,2402 3519,2418 3516,2433 3971,2474 3974,2474 4233,2464 4236,2446 4236,2402 3534,2374 3519,2402"/>
+                <Baseline points="3521,2419 3719,2419 4239,2448"/>
+                <TextEquiv>
+                    <Unicode>ܠܡܕܥ܀ ܐܡ̇ܪ ܠܗ ܝܫܘܥ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_65767555" custom="readingOrder {index:26;} structure {type:DefaultLine;}">
+                <Coords points="4096,2439 3800,2449 3734,2430 3731,2430 3728,2430 3725,2430 3672,2446 3634,2427 3631,2427 3628,2427 3525,2439 3525,2499 3522,2527 3563,2549 3566,2549 3569,2549 3572,2549 3637,2533 3690,2552 3694,2552 3697,2552 3850,2542 3871,2558 3875,2558 3878,2558 3881,2558 3956,2542 4127,2564 4130,2564 4230,2542 4233,2517 4233,2461 4099,2439 4096,2439"/>
+                <Baseline points="3527,2500 4234,2518"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̇ܐ ܐܢ̇ܐ ܐܘܪܚܐ ܘܫܪܪܐ ܘܚ̈ܝܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d6c06d39" custom="readingOrder {index:27;} structure {type:DefaultLine;}">
+                <Coords points="3591,2567 3587,2611 3772,2623 3775,2623 3778,2623 3781,2623 3781,2620 3803,2602 3906,2602 3940,2630 3943,2630 3946,2630 3949,2630 4027,2614 4143,2639 4146,2639 4149,2639 4218,2614 4221,2592 4221,2542 4002,2542 3974,2520 3971,2520 3968,2520 3965,2520 3697,2527 3591,2508 3591,2567"/>
+                <Baseline points="3594,2570 3922,2589 4224,2593"/>
+                <TextEquiv>
+                    <Unicode>ܠܐ ܐܢܫ ܐܬܐ ܠܘܬ ܐܒܝ ܐܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0563d2ec" custom="readingOrder {index:28;} structure {type:DefaultLine;}">
+                <Coords points="3575,2636 3572,2658 3684,2683 3687,2683 3793,2667 4171,2695 4174,2695 4177,2695 4230,2676 4233,2655 4233,2611 3971,2611 3909,2589 3906,2589 3903,2589 3899,2589 3856,2605 3575,2598 3575,2636"/>
+                <Baseline points="3577,2639 4236,2656"/>
+                <TextEquiv>
+                    <Unicode> ܐܢ ܒܝ. ܐܠܘ ܠܝ ܝܕܥܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_443751f1" custom="readingOrder {index:29;} structure {type:DefaultLine;}">
+                <Coords points="3541,2701 3541,2711 3538,2754 3931,2773 3934,2773 3937,2773 4002,2751 4137,2770 4140,2770 4236,2751 4240,2723 4240,2680 3865,2655 3862,2655 3784,2670 3631,2670 3616,2655 3616,2652 3612,2652 3609,2652 3606,2652 3556,2661 3541,2701"/>
+                <Baseline points="3542,2714 4241,2726"/>
+                <TextEquiv>
+                    <Unicode>ܗܘܝܬܘܢ: ܐܦ ܠܐ ܒܝ ܝܕܥܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_887ab4d8" custom="readingOrder {index:30;} structure {type:DefaultLine;}">
+                <Coords points="3534,2783 3531,2807 3553,2829 3553,2832 3556,2832 3559,2832 3563,2832 3566,2832 3569,2832 3591,2814 3765,2836 3768,2836 3772,2836 3775,2836 3803,2814 3871,2814 3896,2839 3896,2842 3899,2842 3903,2842 4002,2845 4006,2845 4118,2832 4162,2848 4165,2848 4168,2848 4171,2848 4236,2820 4240,2801 4233,2748 4155,2761 4099,2739 4096,2739 4093,2739 3984,2754 3712,2733 3709,2733 3534,2742 3534,2783"/>
+                <Baseline points="3538,2785 4243,2803"/>
+                <TextEquiv>
+                    <Unicode>ܗܘܝܬܘܢ. ܡܢ ܗܫܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_73ef5db0" custom="readingOrder {index:31;} structure {type:DefaultLine;}">
+                <Coords points="3553,2867 3550,2910 4230,2920 4236,2879 4236,2832 4202,2814 4199,2814 4196,2814 4015,2826 3996,2811 3993,2811 3990,2811 3987,2811 3984,2811 3924,2826 3875,2807 3871,2807 3868,2807 3865,2807 3809,2823 3690,2804 3687,2804 3553,2817 3553,2867"/>
+                <Baseline points="3554,2868 4239,2880"/>
+                <TextEquiv>
+                    <Unicode>ܝܕܥܝܢ ܐܢܬܘܢ ܠܗ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_bfdd61f6" custom="readingOrder {index:32;} structure {type:DefaultLine;}">
+                <Coords points="3528,2929 3525,2992 3644,3038 3647,3038 3650,3038 3653,3038 3656,3038 3681,3020 3700,3029 3703,3029 3706,3029 3709,3029 3712,3029 3712,3026 3743,2998 3828,2998 3884,3032 3887,3032 3890,3032 3893,3032 3984,3020 4024,3045 4027,3045 4031,3045 4224,3048 4230,2942 4230,2901 3528,2885 3528,2929"/>
+                <Baseline points="3529,2932 4232,2945"/>
+                <TextEquiv>
+                    <Unicode>ܘܚܙܝܬܘܢܝܗܝ. ܐܡ̇ܪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:2;} structure {type:MarginTextZone;}">
+            <Coords points="3469,2496 3587,2493 3562,2654 3469,2634"/>
+            <TextLine id="l_217" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="3460,2583 3463,2652 3559,2652 3556,2577 3547,2505 3453,2508 3460,2583"/>
+                <Baseline points="3462,2585 3557,2580"/>
+                <TextEquiv>
+                    <Unicode>.܏ܠܘ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_c4a483da" custom="readingOrder {index:3;} structure {type:MainZone;}">
+            <Coords points="3475,590 3500,648 3467,2984 2803,2976 2737,2918 2778,2635 2745,1206 2797,1051 2720,856 2734,761 2791,628 3163,574"/>
+            <TextLine id="eSc_line_eb21376b" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="3475,608 3444,589 3441,586 3413,586 3382,586 3350,583 3319,583 3297,580 3297,583 3282,595 3176,580 3173,580 3169,580 3166,580 3138,605 2945,605 2914,608 2882,614 2851,617 2823,624 2823,652 2820,670 2885,695 2889,695 2892,695 3013,673 3148,695 3151,695 3154,695 3191,680 3491,695 3497,655 3494,630 3475,608"/>
+                <Baseline points="2824,653 3215,648 3498,657"/>
+                <TextEquiv>
+                    <Unicode>ܠܗ ܦܝܠܝܦܘܣ. ܡܪܢ܆</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b662417a" custom="readingOrder {index:1;} structure {type:DefaultLine;}">
+                <Coords points="2773,733 2770,764 2801,779 2804,779 2807,779 2811,779 2861,764 2979,779 2982,779 2985,779 2988,779 3013,764 3110,783 3113,783 3244,767 3257,783 3260,783 3260,786 3263,786 3266,786 3269,786 3369,770 3488,786 3494,742 3488,677 2773,677 2773,733"/>
+                <Baseline points="2776,734 3496,744"/>
+                <TextEquiv>
+                    <Unicode>ܚ̇ܘܢ ܐܒܐ ܘܟܕܘ ܠܢ. ܐܡ̇ܪ ܠܗ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_86993e1a" custom="readingOrder {index:2;} structure {type:DefaultLine;}">
+                <Coords points="2717,823 2976,845 2979,845 3488,836 3491,811 3488,770 3385,748 3382,748 3257,764 3191,745 3188,745 3185,745 3095,761 3001,745 2998,745 2995,745 2992,745 2973,761 2882,742 2879,742 2745,758 2726,742 2720,801 2717,823"/>
+                <Baseline points="2722,802 3494,813"/>
+                <TextEquiv>
+                    <Unicode>ܝܫܘܥ. ܗܢܐ ܟܠܗ ܙܒܢܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c9e553dc" custom="readingOrder {index:3;} structure {type:DefaultLine;}">
+                <Coords points="2770,876 2770,917 3004,923 3007,923 3010,923 3051,901 3082,923 3085,923 3088,923 3091,926 3194,926 3194,923 3197,923 3201,923 3201,920 3222,901 3322,901 3453,923 3456,923 3460,923 3463,923 3488,901 3488,876 3488,829 2770,814 2770,876"/>
+                <Baseline points="2772,879 3490,879"/>
+                <TextEquiv>
+                    <Unicode>ܥܡܟܘܢ ܐܢ̣ܐ: ܘܠܐ. ܝܕ̤ܥܬܢܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_19c11624" custom="readingOrder {index:4;} structure {type:DefaultLine;}">
+                <Coords points="2798,948 2798,979 3020,973 3104,989 3107,989 3110,989 3144,973 3160,989 3163,989 3166,989 3169,989 3173,989 3238,973 3269,989 3272,989 3275,989 3279,989 3319,973 3450,989 3453,989 3456,989 3460,989 3478,970 3478,945 3472,904 3263,886 3260,886 3095,901 3035,886 3032,886 3029,886 3026,886 3023,886 3023,889 3007,904 2795,904 2798,948"/>
+                <Baseline points="2801,950 3479,946"/>
+                <TextEquiv>
+                    <Unicode>ܦܝܠܝܦܐ ܡ̇ܢ ܕܠܝ ܚܙܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9ce72555" custom="readingOrder {index:5;} structure {type:DefaultLine;}">
+                <Coords points="3378,948 3375,948 3372,948 3272,967 3251,948 3247,948 3244,948 3213,948 3182,948 3151,948 3138,948 3135,948 3132,948 3129,948 3091,973 2988,951 2985,951 2889,973 2864,951 2864,948 2861,948 2857,948 2854,948 2851,948 2807,970 2807,1026 2804,1060 2910,1076 2914,1076 2917,1076 2920,1076 2951,1054 3041,1054 3098,1076 3101,1076 3104,1076 3201,1054 3219,1070 3222,1070 3226,1070 3425,1076 3428,1076 3431,1076 3485,1051 3488,1029 3485,976 3419,976 3382,948 3378,948"/>
+                <Baseline points="2810,1027 3490,1031"/>
+                <TextEquiv>
+                    <Unicode>ܚ̣ܙܐ ܠܐܒܐ. ܘܐܝܟܢܐ ܐܢܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_7fba552a" custom="readingOrder {index:6;} structure {type:DefaultLine;}">
+                <Coords points="2798,1104 2798,1126 2807,1135 2811,1135 2814,1135 2817,1135 2920,1120 2982,1141 2985,1141 2988,1141 2992,1141 3041,1120 3163,1120 3197,1141 3201,1141 3204,1141 3207,1145 3288,1145 3288,1141 3291,1141 3294,1141 3294,1138 3310,1126 3322,1138 3322,1141 3325,1141 3329,1141 3332,1145 3450,1145 3450,1141 3453,1141 3456,1141 3475,1123 3475,1101 3466,1045 3151,1054 2932,1035 2929,1035 2926,1035 2923,1035 2901,1057 2795,1057 2798,1104"/>
+                <Baseline points="2800,1106 3477,1104"/>
+                <TextEquiv>
+                    <Unicode>ܐܡ̇ܪ ܐܢܬ ܚܘܢ ܐܒܐ. ܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_a62f1311" custom="readingOrder {index:7;} structure {type:DefaultLine;}">
+                <Coords points="2807,1170 2807,1216 2885,1204 2939,1219 2942,1219 2945,1219 2948,1219 2951,1219 2982,1201 3057,1216 3060,1216 3063,1216 3104,1201 3210,1201 3229,1216 3229,1219 3232,1219 3235,1219 3238,1219 3485,1210 3485,1170 3485,1126 2807,1126 2807,1170"/>
+                <Baseline points="2808,1173 3488,1171"/>
+                <TextEquiv>
+                    <Unicode>ܡܗܝܡ̣̣ܢ ܐܢܬ܆ ܕܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_f301f76b" custom="readingOrder {index:8;} structure {type:DefaultLine;}">
+                <Coords points="2767,1226 2764,1248 2792,1266 2795,1266 2798,1266 2801,1266 2804,1266 2854,1248 2904,1266 2907,1266 2910,1266 3054,1251 3166,1269 3169,1269 3173,1269 3176,1269 3176,1266 3191,1254 3207,1269 3210,1269 3213,1269 3216,1269 3329,1254 3350,1272 3353,1272 3357,1272 3360,1276 3450,1276 3450,1272 3453,1272 3456,1272 3478,1254 3481,1235 3478,1194 2767,1185 2767,1226"/>
+                <Baseline points="2768,1229 3484,1237"/>
+                <TextEquiv>
+                    <Unicode>ܒܐܒܝ ܘܐܒܝ ܒܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0d5799c5" custom="readingOrder {index:9;} structure {type:DefaultLine;}">
+                <Coords points="3316,1235 3313,1235 3232,1248 3204,1232 3191,1232 3179,1232 3157,1248 3066,1232 3066,1232 3035,1232 3007,1248 2914,1248 2870,1229 2848,1229 2839,1229 2754,1241 2754,1291 2751,1316 2995,1338 2998,1338 3478,1326 3481,1301 3478,1254 3363,1254 3344,1235 3316,1235"/>
+                <Baseline points="2758,1293 3484,1302"/>
+                <TextEquiv>
+                    <Unicode>ܘܡ̈ܠܐ ܐܝܠܝܢ ܕܐܢ̇ܐ ܡܡ̇ܠܠ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9612792b" custom="readingOrder {index:10;} structure {type:DefaultLine;}">
+                <Coords points="2767,1366 2764,1391 2973,1419 2976,1419 3226,1413 3229,1413 3232,1413 3257,1397 3425,1419 3428,1419 3431,1419 3478,1394 3481,1369 3475,1310 2767,1316 2767,1366"/>
+                <Baseline points="2768,1368 3484,1372"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̣ܐ: ܡܢ ܢܦܫܝ ܠܐ ܡܡ̇ܠܠ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_111cb6d8" custom="readingOrder {index:11;} structure {type:DefaultLine;}">
+                <Coords points="2767,1441 2767,1466 2920,1491 2923,1491 3135,1472 3160,1488 3163,1488 3166,1488 3169,1488 3173,1488 3210,1472 3419,1491 3422,1491 3425,1491 3485,1466 3485,1441 3485,1400 2767,1394 2767,1441"/>
+                <Baseline points="2768,1443 3486,1443"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̣ܐ. ܐܒܝ ܕܝܢ ܕܒܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8dc134e8" custom="readingOrder {index:12;} structure {type:DefaultLine;}">
+                <Coords points="2767,1503 2764,1535 2807,1553 2811,1553 2814,1553 2817,1553 2876,1538 3001,1553 3004,1553 3382,1538 3441,1553 3444,1553 3447,1553 3450,1553 3485,1535 3488,1506 3485,1453 2767,1457 2767,1503"/>
+                <Baseline points="2770,1505 3490,1510"/>
+                <TextEquiv>
+                    <Unicode>ܥ̇ܡܪ. ܗܘ̣ ܥ̇ܒܕ ܥ̈ܒܕܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_cac949e9" custom="readingOrder {index:13;} structure {type:DefaultLine;}">
+                <Coords points="2792,1578 2792,1597 2892,1597 2910,1613 2910,1616 2914,1616 2917,1616 2920,1616 2923,1616 2998,1597 3023,1616 3026,1616 3029,1616 3032,1616 3475,1613 3478,1575 3472,1538 3388,1519 3385,1519 3382,1519 3335,1535 3119,1519 3116,1519 2992,1535 2867,1519 2864,1519 2861,1519 2789,1538 2792,1578"/>
+                <Baseline points="2795,1580 3481,1578"/>
+                <TextEquiv>
+                    <Unicode>ܗܠܝܢ. ܗܝܡܢܘ ܕܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ea4a45d4" custom="readingOrder {index:14;} structure {type:DefaultLine;}">
+                <Coords points="3216,1578 3213,1578 3107,1600 3060,1581 3057,1581 3054,1581 2939,1603 2907,1578 2904,1578 2901,1578 2870,1578 2839,1578 2807,1578 2804,1578 2801,1578 2798,1578 2795,1578 2795,1581 2776,1597 2779,1653 2779,1675 3007,1691 3010,1691 3478,1672 3478,1644 3469,1594 3279,1597 3219,1578 3216,1578"/>
+                <Baseline points="2780,1655 3479,1647"/>
+                <TextEquiv>
+                    <Unicode>ܒܐܒܝ ܘܐܒܝ ܒܝ. ܘܐܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ecaac387" custom="readingOrder {index:15;} structure {type:DefaultLine;}">
+                <Coords points="2776,1703 2773,1731 2914,1753 2917,1753 3472,1747 3475,1719 3472,1672 2776,1662 2776,1703"/>
+                <Baseline points="2778,1705 3477,1722"/>
+                <TextEquiv>
+                    <Unicode>ܐܦܢ ܡܛܠ ܥ̈ܒܕܐ ܗܝܡܢܘ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_71e3226a" custom="readingOrder {index:16;} structure {type:DefaultLine;}">
+                <Coords points="2767,1787 2764,1806 2914,1809 2939,1831 2939,1834 2942,1834 2945,1834 2948,1834 3469,1822 3472,1790 3469,1734 3235,1719 3232,1719 3229,1719 3226,1719 3226,1722 3210,1737 2767,1737 2767,1787"/>
+                <Baseline points="2770,1788 3473,1792"/>
+                <TextEquiv>
+                    <Unicode>ܐܡܝܢ ܐܡܝܢ ܐܡ̇ܪ ܐܢ̣ܐ ܠܟܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ef1e0d72" custom="readingOrder {index:17;} structure {type:DefaultLine;}">
+                <Coords points="2761,1847 2758,1875 2804,1896 2807,1896 2811,1896 2982,1881 3013,1900 3017,1900 3020,1900 3023,1900 3188,1887 3347,1909 3350,1909 3478,1887 3481,1862 3481,1818 2761,1803 2761,1847"/>
+                <Baseline points="2762,1849 3484,1865"/>
+                <TextEquiv>
+                    <Unicode>ܕܡ̇ܢ ܕܡܗܝܡܢ ܒܝ ܥ̈ܒܕܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_15340373" custom="readingOrder {index:18;} structure {type:DefaultLine;}">
+                <Coords points="2764,1925 2761,1946 2848,1971 2851,1971 2854,1971 3004,1956 3235,1981 3238,1981 3241,1981 3310,1962 3329,1981 3332,1981 3335,1981 3435,1984 3438,1984 3441,1984 3444,1984 3475,1962 3478,1940 3475,1878 3269,1884 3207,1865 3204,1865 3201,1865 3123,1881 3051,1862 3048,1862 3045,1862 3041,1862 3038,1862 3023,1878 2976,1859 2973,1859 2970,1859 2764,1871 2764,1925"/>
+                <Baseline points="2766,1926 3072,1926 3481,1942"/>
+                <TextEquiv>
+                    <Unicode>ܐܝܠܝܢ ܕܐܢ̇ܐ ܥܒܕ ܐܢ̣ܐ. ܐܦ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_20d19122" custom="readingOrder {index:19;} structure {type:DefaultLine;}">
+                <Coords points="2754,1999 2751,2021 2839,2046 2842,2046 2845,2046 2848,2046 2851,2046 2851,2043 2867,2031 3051,2046 3054,2046 3148,2027 3201,2046 3204,2046 3207,2046 3210,2046 3251,2027 3441,2046 3444,2046 3447,2046 3450,2046 3481,2024 3485,2003 3481,1962 3325,1962 3307,1943 3304,1943 3300,1943 3297,1943 3294,1943 3291,1943 3266,1959 3066,1943 3063,1943 2754,1956 2754,1999"/>
+                <Baseline points="2756,2000 3488,2005"/>
+                <TextEquiv>
+                    <Unicode>ܗܘ̣ ܢܥܒܕ. ܘܕܝܬܝܪܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_75b8fc55" custom="readingOrder {index:20;} structure {type:DefaultLine;}">
+                <Coords points="2773,2068 2770,2081 2832,2109 2836,2109 2839,2109 3060,2084 3472,2106 3478,2074 3478,2024 2773,2021 2773,2068"/>
+                <Baseline points="2774,2069 3481,2077"/>
+                <TextEquiv>
+                    <Unicode>ܡܢ ܗܠܝܢ ܢܥܒܕ. ܕܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_3b763bb1" custom="readingOrder {index:21;} structure {type:DefaultLine;}">
+                <Coords points="3048,2071 3045,2071 3041,2071 3038,2071 2995,2093 2776,2093 2761,2121 2761,2134 2758,2168 2773,2180 2776,2180 2779,2180 2783,2180 2998,2171 3045,2187 3048,2187 3051,2187 3478,2177 3481,2149 3481,2109 3272,2077 3269,2077 3135,2093 3101,2077 3098,2077 3095,2077 3091,2077 3088,2077 3066,2090 3054,2074 3051,2074 3051,2071 3048,2071"/>
+                <Baseline points="2764,2136 3484,2150"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬ ܐܒܐ ܐܙ̇ܠ ܐܢ̣ܐ. ܘܡܕܡ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_93052105" custom="readingOrder {index:22;} structure {type:DefaultLine;} sic {offset:0; length:6;correction:ܕ݁ܬ݂ܶܫܶܐܠܽܘܢ;}">
+                <Coords points="2767,2199 2764,2221 2804,2243 2807,2243 2811,2243 3035,2230 3254,2246 3257,2246 3260,2246 3263,2246 3297,2227 3403,2227 3435,2246 3438,2246 3441,2246 3444,2246 3447,2246 3450,2246 3481,2224 3485,2205 3481,2162 2767,2159 2767,2199"/>
+                <Baseline points="2770,2202 3486,2208"/>
+                <TextEquiv>
+                    <Unicode>ܕܬܫܠܘܢ ܒܫܡܝ ܐܥ̇ܒܕ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_fa572b60" custom="readingOrder {index:23;} structure {type:DefaultLine;}">
+                <Coords points="2754,2274 2751,2296 2817,2321 2820,2321 2823,2321 2985,2302 3116,2324 3119,2327 3266,2327 3266,2324 3269,2324 3310,2305 3447,2324 3450,2324 3453,2324 3456,2324 3478,2305 3481,2280 3481,2237 3210,2237 3116,2215 3113,2215 2754,2227 2754,2274"/>
+                <Baseline points="2756,2277 3484,2283"/>
+                <TextEquiv>
+                    <Unicode>ܠܟܘܢ. ܕܢܫܬܒܚ ܐܒܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8e55626a" custom="readingOrder {index:24;} structure {type:DefaultLine;}">
+                <Coords points="2754,2346 2751,2358 2814,2361 2845,2389 2848,2389 2851,2389 2854,2389 2857,2389 2861,2389 2892,2364 2988,2389 2992,2389 2995,2393 3163,2393 3163,2389 3166,2389 3169,2389 3207,2364 3447,2389 3450,2389 3453,2389 3456,2389 3456,2386 3475,2364 3478,2349 3475,2305 3347,2286 3344,2286 3266,2302 3204,2286 3201,2286 3197,2286 3119,2302 3032,2286 3029,2286 2754,2299 2754,2346"/>
+                <Baseline points="2756,2348 3479,2352"/>
+                <TextEquiv>
+                    <Unicode>ܒܒܪܗ. ܘܐܢ ܬܫܐܠܘܢܢܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_aca3f7e1" custom="readingOrder {index:25;} structure {type:DefaultLine;}">
+                <Coords points="2751,2418 2751,2446 3472,2452 3475,2418 3469,2364 3413,2377 3294,2358 3291,2358 3288,2358 3251,2377 3197,2352 3194,2352 3191,2352 3188,2352 3185,2352 3148,2377 3107,2358 3104,2358 3101,2358 3098,2358 3095,2358 3073,2377 2882,2352 2879,2352 2876,2352 2873,2352 2832,2380 2751,2380 2751,2418"/>
+                <Baseline points="2753,2421 3477,2419"/>
+                <TextEquiv>
+                    <Unicode>ܒܫܡܝ܆ ܐܢ̇ܐ ܥ̇ܒܕܢܐ ܐܢ̣ܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_201731a0" custom="readingOrder {index:26;} structure {type:DefaultLine;}">
+                <Coords points="2745,2474 2742,2496 2979,2530 2982,2530 3463,2520 3466,2499 3466,2455 3366,2433 2745,2430 2745,2474"/>
+                <Baseline points="2746,2475 3005,2487 3469,2500"/>
+                <TextEquiv>
+                    <Unicode>ܕܢܓܗ̇ ܚܙܒ܏ܫ ܕܦܢܛܝܩܘ܏ܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_a0b6d90b" custom="readingOrder {index:27;} structure {type:DefaultLine;}">
+                <Coords points="2836,2552 2832,2567 3032,2570 3116,2605 3119,2605 3123,2605 3126,2605 3129,2605 3157,2586 3176,2605 3179,2605 3182,2605 3332,2608 3335,2608 3338,2608 3341,2608 3372,2589 3431,2608 3441,2561 3435,2502 3241,2514 3210,2499 3207,2499 2836,2499 2836,2552"/>
+                <Baseline points="2839,2554 3442,2564"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ ܪܚܡܝܢ ܐܢܬܘܢ ܠܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_27317fa5" custom="readingOrder {index:28;} structure {type:DefaultLine;}">
+                <Coords points="3400,2561 3335,2583 3188,2583 3166,2561 3163,2561 3160,2561 3157,2561 3154,2561 3151,2561 3123,2580 3085,2558 3082,2558 3079,2558 3076,2558 3013,2577 2992,2558 2988,2558 2985,2558 2864,2558 2861,2558 2857,2558 2807,2577 2807,2627 2804,2655 2926,2676 2929,2676 3419,2667 3422,2630 3413,2561 3400,2561"/>
+                <Baseline points="2808,2629 3423,2633"/>
+                <TextEquiv>
+                    <Unicode> ܦܘ̈ܩܕܢܝ ܛܪܘ. ܘܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_94038c34" custom="readingOrder {index:29;} structure {type:DefaultLine;}">
+                <Coords points="2776,2698 2773,2717 2811,2739 2814,2739 2817,2739 2820,2739 3450,2736 3453,2717 3450,2648 3375,2664 3344,2645 3341,2645 3338,2645 3335,2645 3332,2645 3269,2661 3107,2642 3104,2642 2926,2652 2876,2633 2873,2633 2870,2633 2776,2645 2776,2698"/>
+                <Baseline points="2778,2699 3454,2718"/>
+                <TextEquiv>
+                    <Unicode>ܐܒܥܐ ܡܢ ܐܒܝ. ܘܐܚܪܢܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_4e035a83" custom="readingOrder {index:30;} structure {type:DefaultLine;}">
+                <Coords points="3285,2714 3254,2714 3251,2711 3204,2733 3160,2711 3160,2711 3138,2711 3116,2729 2786,2723 2786,2767 2783,2792 3026,2801 3098,2829 3101,2829 3104,2829 3466,2814 3469,2783 3469,2733 3294,2714 3285,2714"/>
+                <Baseline points="2789,2768 3471,2785"/>
+                <TextEquiv>
+                    <Unicode>ܦܪ̈ܩܠܛܐ ܢܬܠ ܠܟܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_bd744473" custom="readingOrder {index:31;} structure {type:DefaultLine;}">
+                <Coords points="2758,2836 2754,2857 3023,2895 3026,2895 3113,2879 3407,2907 3410,2907 3413,2907 3466,2885 3469,2861 3469,2814 2758,2792 2758,2836"/>
+                <Baseline points="2760,2837 3471,2862"/>
+                <TextEquiv>
+                    <Unicode>ܕܢܗܘܐ ܥܡܟܘܢ ܠܥܠܡ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_afd9fc6c" custom="readingOrder {index:32;} structure {type:DefaultLine;}">
+                <Coords points="2764,2907 2761,2963 2814,2967 2857,3001 2861,3001 2864,3001 2867,3001 2935,2988 2945,3001 2948,3001 2948,3004 2951,3004 2954,3004 3126,3010 3129,3010 3132,3010 3135,3010 3182,2982 3294,3017 3297,3017 3300,3017 3475,2998 3478,2932 3472,2870 3347,2885 3300,2867 3297,2867 3294,2867 3291,2867 3257,2882 3051,2857 3048,2857 3045,2857 2988,2873 2904,2848 2901,2848 2898,2848 2764,2864 2764,2907"/>
+                <Baseline points="2766,2909 3479,2934"/>
+                <TextEquiv>
+                    <Unicode>ܪܘܚܐ ܕܫܪܪܐ ܗܘ̇ ܕܥܠܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_71eb091b" custom="readingOrder {index:4;} structure {type:MainZone;}">
+            <Coords points="2385,648 2428,710 2455,777 2434,814 2447,857 2468,931 2460,1347 2470,1919 2460,2138 2460,2993 1755,3001 1722,2976 1750,897 1748,720 1813,665 2248,648"/>
+            <TextLine id="eSc_line_1cb0a29f" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="2421,705 2389,664 2286,664 2283,664 2280,664 2277,664 2277,667 2252,689 2130,689 2102,664 2102,661 2099,661 2096,661 2093,661 2090,661 2087,661 2052,686 1996,667 1993,667 1990,667 1987,667 1984,667 1968,680 1946,661 1921,661 1918,661 1800,683 1793,680 1765,705 1762,677 1734,673 1734,736 1731,758 1765,776 1769,776 1772,776 1775,776 1806,764 1971,779 1974,779 2436,764 2439,745 2436,730 2421,705"/>
+                <Baseline points="1736,738 2442,747"/>
+                <TextEquiv>
+                    <Unicode>ܠܐ ܡܫ̣ܟܚ ܠܡܩܒܠܘܬܗ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_60565325" custom="readingOrder {index:1;} structure {type:DefaultLine;}">
+                <Coords points="2418,745 2386,745 2361,745 2074,761 1800,745 1797,745 1793,745 1731,764 1734,814 1734,839 1781,861 1784,861 1787,861 1900,842 2212,857 2215,857 2218,857 2221,857 2249,836 2352,857 2355,857 2358,857 2430,833 2430,808 2421,745 2418,745"/>
+                <Baseline points="1736,815 2431,810"/>
+                <TextEquiv>
+                    <Unicode>ܡܛܠ ܕܠܐ ܚܙܝܗܝ ܘܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9b54ca50" custom="readingOrder {index:2;} structure {type:DefaultLine;}">
+                <Coords points="2436,836 1747,826 1747,882 1747,923 1784,942 1787,942 1790,942 1890,939 1893,939 1896,939 1896,935 1918,917 1999,942 2003,942 2006,942 2081,926 2140,942 2143,942 2146,942 2149,942 2152,942 2152,939 2174,917 2240,917 2318,942 2321,942 2324,942 2449,914 2449,882 2449,876 2436,836"/>
+                <Baseline points="1749,884 2452,886"/>
+                <TextEquiv>
+                    <Unicode>ܝܕܥܗ. ܐܢܬܘܢ ܕܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d165bf8a" custom="readingOrder {index:3;} structure {type:DefaultLine;}">
+                <Coords points="1762,954 1762,979 1837,1001 1840,1001 1843,1001 2449,979 2449,954 2449,914 1762,901 1762,954"/>
+                <Baseline points="1763,956 2452,956"/>
+                <TextEquiv>
+                    <Unicode>ܝܕܥܝܢ ܐܢܬܘܢ ܠܗ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b0b21d83" custom="readingOrder {index:4;} structure {type:DefaultLine;}">
+                <Coords points="1731,1023 1731,1060 1928,1073 1931,1073 2046,1057 2068,1073 2071,1073 2074,1073 2077,1073 2268,1054 2368,1070 2371,1070 2464,1051 2467,1017 2458,970 1728,973 1731,1023"/>
+                <Baseline points="1732,1025 2468,1019"/>
+                <TextEquiv>
+                    <Unicode>ܕܠܘܬܟܘܢ ܥ̇ܡܪ ܘܒܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d386c068" custom="readingOrder {index:5;} structure {type:DefaultLine;}">
+                <Coords points="1740,1095 1740,1120 1943,1141 1946,1141 2077,1120 2221,1135 2224,1135 2227,1135 2305,1116 2383,1135 2386,1135 2389,1135 2393,1135 2449,1110 2449,1085 2442,1038 1971,1035 1968,1035 1737,1054 1740,1095"/>
+                <Baseline points="1743,1096 2452,1087"/>
+                <TextEquiv>
+                    <Unicode>ܗܘ. ܠܐ ܫܒܩ ܐܢ̣ܐ ܠܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_3a6a5609" custom="readingOrder {index:6;} structure {type:DefaultLine;}">
+                <Coords points="1744,1163 1744,1194 2134,1223 2137,1223 2140,1223 2199,1198 2333,1210 2336,1210 2452,1191 2455,1160 2449,1116 2068,1101 2065,1101 2062,1101 2059,1101 2059,1104 2043,1120 1740,1120 1744,1163"/>
+                <Baseline points="1745,1166 2458,1162"/>
+                <TextEquiv>
+                    <Unicode>ܝܬܡ̈ܐ. ܐܬܐ ܐܢ̣ܐ ܓܝܪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_dd32d479" custom="readingOrder {index:7;} structure {type:DefaultLine;}">
+                <Coords points="1737,1238 1737,1254 1759,1276 1759,1279 1762,1279 1765,1279 1890,1282 1893,1282 2093,1248 2190,1263 2193,1263 2293,1248 2321,1269 2321,1272 2324,1272 2327,1272 2330,1276 2405,1276 2405,1272 2408,1272 2411,1272 2455,1241 2455,1226 2446,1182 1734,1194 1737,1238"/>
+                <Baseline points="1740,1239 2456,1227"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܟܘܢ ܩܠܝܠ ܐܚܪܝܢ܆</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_16d6841e" custom="readingOrder {index:8;} structure {type:DefaultLine;}">
+                <Coords points="2130,1232 2099,1232 2068,1235 2052,1235 1981,1257 1725,1257 1728,1301 1728,1329 2040,1347 2043,1347 2046,1347 2102,1329 2221,1344 2224,1344 2227,1344 2230,1344 2230,1341 2246,1326 2452,1322 2452,1294 2446,1248 2140,1232 2130,1232"/>
+                <Baseline points="1730,1304 2454,1295"/>
+                <TextEquiv>
+                    <Unicode>ܘܥܠܡܐ ܠܐ ܚ̇ܙܐ ܠܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_76b94ddc" custom="readingOrder {index:9;} structure {type:DefaultLine;}">
+                <Coords points="1728,1369 1725,1388 1781,1410 1784,1410 1787,1413 1999,1413 1999,1410 2003,1410 2046,1391 2386,1410 2389,1410 2393,1410 2439,1388 2442,1372 2442,1329 2408,1310 2405,1310 2402,1310 2283,1326 2246,1310 2243,1310 2240,1310 2237,1310 2233,1310 2212,1326 2118,1310 2115,1310 2112,1310 2052,1326 1728,1326 1728,1369"/>
+                <Baseline points="1730,1370 2446,1374"/>
+                <TextEquiv>
+                    <Unicode>ܐܢܬܘܢ ܕܝܢ ܬܚܙܘܢܢܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_7487e25f" custom="readingOrder {index:10;} structure {type:DefaultLine;}">
+                <Coords points="2087,1372 2084,1372 1949,1391 1744,1385 1744,1438 1740,1457 1856,1481 1859,1481 1999,1463 2059,1481 2062,1481 2065,1481 2155,1466 2171,1478 2171,1481 2174,1481 2177,1481 2333,1485 2336,1485 2340,1485 2343,1485 2343,1481 2361,1466 2430,1466 2433,1444 2430,1397 2174,1379 2171,1379 2168,1379 2130,1394 2090,1372 2087,1372"/>
+                <Baseline points="1745,1441 2435,1445"/>
+                <TextEquiv>
+                    <Unicode>ܕܐܢ̇ܐ ܚܝ ܘܐܦ ܐܢܬܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e38f31c6" custom="readingOrder {index:11;} structure {type:DefaultLine;}">
+                <Coords points="1737,1503 1734,1538 2205,1538 2308,1556 2311,1556 2414,1538 2418,1516 2414,1453 2349,1450 2346,1450 2343,1450 2340,1450 2340,1453 2321,1469 2193,1450 2190,1450 2074,1463 2046,1444 2043,1444 2040,1444 2037,1444 2034,1444 1993,1463 1797,1447 1793,1447 1790,1447 1737,1460 1737,1503"/>
+                <Baseline points="1738,1505 2419,1519"/>
+                <TextEquiv>
+                    <Unicode>ܬܚܘܢ. ܒܗܘ̇ ܝܘܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_fce61f43" custom="readingOrder {index:12;} structure {type:DefaultLine;}">
+                <Coords points="1722,1569 1719,1584 1803,1613 1806,1613 1968,1616 1971,1619 2127,1619 2127,1616 2130,1616 2174,1594 2383,1619 2386,1619 2389,1619 2433,1594 2436,1578 2433,1528 1722,1525 1722,1569"/>
+                <Baseline points="1724,1572 2439,1580"/>
+                <TextEquiv>
+                    <Unicode>ܬܪܥܘܢ ܕܐܢ̇ܐ ܒܐܒܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_46a93be4" custom="readingOrder {index:13;} structure {type:DefaultLine;}">
+                <Coords points="2215,1578 2196,1575 2137,1600 1996,1584 1993,1584 1990,1584 1987,1584 1965,1603 1747,1603 1747,1644 1747,1681 1793,1697 1797,1697 1800,1697 1915,1672 1940,1694 1940,1697 1943,1697 1946,1697 1949,1700 2012,1700 2012,1697 2249,1672 2346,1694 2349,1694 2455,1669 2455,1644 2455,1603 2233,1578 2215,1578"/>
+                <Baseline points="1749,1645 2458,1645"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܢ̇ܬܘܢ ܒܝ ܐܢܬܘܢ ܘܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_bd7b6f27" custom="readingOrder {index:14;} structure {type:DefaultLine;}">
+                <Coords points="1737,1715 1737,1744 2074,1762 2077,1762 2081,1762 2084,1762 2118,1740 2152,1759 2155,1759 2159,1759 2162,1759 2165,1759 2184,1744 2402,1759 2405,1759 2408,1759 2449,1737 2449,1709 2442,1669 2165,1650 2162,1650 2074,1669 1896,1653 1893,1653 1734,1672 1737,1715"/>
+                <Baseline points="1738,1718 2452,1711"/>
+                <TextEquiv>
+                    <Unicode>ܒܟܘܢ ܐܢ̣ܐ܀ ܡ̇ܢ ܕܐܝܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_749ff4f2" custom="readingOrder {index:15;} structure {type:DefaultLine;}">
+                <Coords points="1728,1781 1725,1797 2096,1831 2099,1831 2352,1828 2355,1828 2358,1828 2358,1825 2380,1806 2446,1806 2449,1787 2449,1737 1728,1737 1728,1781"/>
+                <Baseline points="1730,1784 2450,1790"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܗ ܦܘܩ̈ܕܢܝ ܘܢܛܪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8b318501" custom="readingOrder {index:16;} structure {type:DefaultLine;}">
+                <Coords points="1722,1856 1722,1881 1822,1903 1825,1903 1828,1903 1865,1887 1896,1903 1900,1903 1903,1903 2056,1900 2059,1900 2090,1884 2383,1900 2386,1900 2389,1900 2461,1875 2461,1850 2455,1812 1818,1797 1815,1797 1719,1815 1722,1856"/>
+                <Baseline points="1724,1857 2464,1853"/>
+                <TextEquiv>
+                    <Unicode>ܠܗܘܢ܆ ܗܘ̇ ܗ݈ܘ ܡ̇ܚܒ ܠܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_67dde051" custom="readingOrder {index:17;} structure {type:DefaultLine;}">
+                <Coords points="1725,1918 1722,1934 1775,1953 1778,1953 1781,1953 1887,1937 1900,1953 1903,1953 1903,1956 1906,1956 1909,1956 1912,1956 2012,1940 2034,1956 2037,1956 2040,1956 2230,1959 2233,1959 2237,1959 2240,1959 2258,1946 2268,1959 2271,1959 2271,1962 2274,1962 2277,1962 2280,1962 2283,1962 2286,1962 2311,1946 2461,1946 2464,1931 2464,1878 1725,1871 1725,1918"/>
+                <Baseline points="1728,1921 2467,1932"/>
+                <TextEquiv>
+                    <Unicode> ܀ ܗܘ ܕܝܢ ܕܪܚ̇ܡ ܠܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_02bc5696" custom="readingOrder {index:18;} structure {type:DefaultLine;}">
+                <Coords points="2411,1931 2380,1931 2349,1931 2327,1931 2324,1934 2308,1931 2286,1931 2255,1928 2230,1928 2199,1937 2180,1928 2162,1928 2130,1928 2109,1928 2046,1940 2006,1925 2006,1925 1981,1925 1959,1940 1803,1925 1800,1925 1797,1925 1725,1946 1728,1987 1728,2012 1803,2037 1806,2037 1809,2040 1893,2040 1893,2037 1896,2037 1900,2037 1934,2012 2090,2034 2093,2034 2464,1999 2464,1974 2458,1937 2421,1931 2411,1931"/>
+                <Baseline points="1730,1988 2466,1978"/>
+                <TextEquiv>
+                    <Unicode>ܢܬܪܝܠܡ ܡܢ ܐܒܝ. ܘܐܢ̇ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_079b2fe2" custom="readingOrder {index:19;} structure {type:DefaultLine;}">
+                <Coords points="1725,2049 1722,2074 1750,2096 1753,2096 1756,2096 1759,2099 1996,2099 1996,2096 1999,2096 2003,2096 2003,2093 2021,2077 2112,2096 2115,2096 2118,2096 2180,2077 2418,2093 2421,2093 2424,2093 2458,2074 2461,2056 2458,2012 2330,1996 2327,1996 2096,2012 2006,1993 2003,1993 1725,2006 1725,2049"/>
+                <Baseline points="1728,2050 2462,2059"/>
+                <TextEquiv>
+                    <Unicode>ܐܪ̈ܚܡܝܘܗܝ ܘܐܚ̇ܘܝܘܗܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_2368e0ec" custom="readingOrder {index:20;} structure {type:DefaultLine;}">
+                <Coords points="2446,2062 2277,2056 2252,2056 2221,2056 2193,2056 2062,2074 2037,2056 2034,2056 2031,2056 2027,2056 2024,2056 1981,2077 1797,2062 1793,2062 1790,2062 1753,2074 1756,2121 1759,2165 1800,2149 1837,2165 1840,2165 1843,2165 1946,2149 2455,2149 2458,2112 2452,2071 2446,2062"/>
+                <Baseline points="1759,2123 2460,2115"/>
+                <TextEquiv>
+                    <Unicode>ܢܦܫܝ܀ ܐܡ̇ܪ ܠܗ ܝܗܘܕܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_78b564d0" custom="readingOrder {index:21;} structure {type:DefaultLine;}">
+                <Coords points="1715,2190 1715,2221 2003,2237 2006,2237 2093,2218 2227,2233 2230,2233 2233,2233 2237,2233 2258,2218 2355,2230 2358,2230 2446,2212 2449,2184 2442,2127 2071,2127 2068,2127 2065,2127 2031,2143 1943,2127 1940,2127 1850,2143 1800,2127 1797,2127 1793,2127 1712,2143 1715,2190"/>
+                <Baseline points="1718,2192 2452,2184"/>
+                <TextEquiv>
+                    <Unicode>ܠܐ ܗܘܐ ܣܟܪܝܘܛܐ. ܡܪܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_87f07b5c" custom="readingOrder {index:22;} structure {type:DefaultLine;}">
+                <Coords points="1725,2265 1725,2286 1806,2286 1847,2315 2034,2302 2034,2299 2052,2283 2249,2305 2249,2302 2277,2280 2299,2296 2311,2296 2361,2280 2386,2302 2461,2299 2461,2249 2442,2202 2374,2190 2215,2208 2184,2193 2174,2193 2118,2212 2015,2199 1931,2215 1893,2199 1881,2199 1862,2218 1828,2202 1822,2202 1722,2221 1725,2265"/>
+                <Baseline points="1726,2267 2462,2252"/>
+                <TextEquiv>
+                    <Unicode> ܡ̇ܢܘ ܠܢ ܥܬܝܕ ܐܢܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_674787ec" custom="readingOrder {index:23;} structure {type:DefaultLine;}">
+                <Coords points="2271,2255 2268,2255 2265,2255 2262,2255 2190,2280 2049,2262 2046,2262 2043,2262 1934,2290 1750,2280 1753,2340 1753,2355 1775,2374 1778,2374 1781,2374 1784,2374 1787,2374 1790,2374 1822,2352 1847,2371 1850,2371 1853,2371 1856,2371 1859,2371 1862,2371 1862,2368 1884,2349 1996,2368 1999,2368 2003,2368 2059,2340 2149,2340 2318,2358 2321,2358 2414,2355 2418,2355 2421,2355 2452,2330 2452,2318 2446,2277 2349,2255 2346,2255 2343,2255 2305,2274 2274,2255 2271,2255"/>
+                <Baseline points="1755,2343 2454,2321"/>
+                <TextEquiv>
+                    <Unicode>ܠܡܚ̇ܘܝܘ ܢܦܫܟ ܘܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ee9498be" custom="readingOrder {index:24;} structure {type:DefaultLine;}">
+                <Coords points="2193,2327 2162,2327 2130,2330 2109,2330 2068,2352 1881,2352 1853,2336 1850,2340 1818,2340 1787,2340 1784,2340 1772,2349 1728,2327 1728,2396 1728,2421 2084,2439 2087,2439 2090,2439 2155,2424 2408,2436 2411,2436 2414,2436 2458,2414 2458,2389 2452,2349 2202,2327 2193,2327"/>
+                <Baseline points="1730,2398 2460,2392"/>
+                <TextEquiv>
+                    <Unicode>ܗܘܐ ܠܥܠܡܐ܀ ܥܢ̣ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8bcfb352" custom="readingOrder {index:25;} structure {type:DefaultLine;}">
+                <Coords points="1722,2467 1722,2486 1837,2508 1840,2508 1968,2492 2084,2505 2087,2505 2174,2489 2414,2499 2418,2499 2421,2499 2424,2499 2455,2477 2455,2455 2442,2414 1719,2424 1722,2467"/>
+                <Baseline points="1724,2468 2456,2458"/>
+                <TextEquiv>
+                    <Unicode>ܝܫܘܥ ܘܐܡ̣ܪ ܠܗ. ܡ̇ܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e551ea49" custom="readingOrder {index:26;} structure {type:DefaultLine;}">
+                <Coords points="1719,2517 1722,2536 1722,2561 2006,2580 2009,2580 2442,2555 2446,2530 2439,2489 2165,2471 2162,2471 2159,2471 2155,2471 2155,2474 2140,2486 1809,2474 1806,2474 1737,2486 1719,2517"/>
+                <Baseline points="1724,2539 2448,2531"/>
+                <TextEquiv>
+                    <Unicode>ܕܪܚ̇ܡ ܠܝ ܡܠܬܝ ܢܛܪ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_30fd9921" custom="readingOrder {index:27;} structure {type:DefaultLine;}">
+                <Coords points="1725,2598 1725,2620 2237,2636 2240,2636 2364,2620 2411,2633 2414,2633 2418,2633 2421,2633 2424,2633 2452,2608 2452,2586 2442,2549 1722,2558 1725,2598"/>
+                <Baseline points="1726,2600 2454,2589"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܒܝ ܢܪܚܡܝܘܗܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e5b67666" custom="readingOrder {index:28;} structure {type:DefaultLine;}">
+                <Coords points="1719,2673 1719,2701 1925,2714 1928,2714 2452,2680 2455,2652 2439,2608 2124,2602 2121,2602 1974,2623 1953,2605 1953,2602 1949,2602 1946,2602 1943,2602 1778,2605 1775,2605 1715,2627 1719,2673"/>
+                <Baseline points="1722,2676 2458,2652"/>
+                <TextEquiv>
+                    <Unicode>ܘܠܘܬܗ ܐܬܝܢ ܚܢܢ. ܘܐܘܢܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_53e62e04" custom="readingOrder {index:29;} structure {type:DefaultLine;}">
+                <Coords points="1756,2736 1756,2770 1772,2783 1775,2783 1778,2783 1781,2783 1931,2764 2096,2779 2099,2779 2102,2779 2106,2779 2106,2776 2124,2761 2227,2776 2230,2776 2449,2751 2449,2723 2442,2686 2290,2670 2286,2670 2283,2670 2252,2686 1806,2680 1803,2680 1800,2680 1753,2695 1756,2736"/>
+                <Baseline points="1759,2739 2452,2724"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܗ ܥ̇ܒܕܝܢ܀ ܗܘ̇ ܕܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c7e8da65" custom="readingOrder {index:30;} structure {type:DefaultLine;}">
+                <Coords points="1744,2829 1744,2873 1856,2873 1856,2870 1862,2870 1884,2851 1931,2867 1943,2867 1943,2864 1965,2845 1999,2857 2009,2857 2096,2836 2377,2851 2446,2820 2446,2798 2439,2748 2371,2733 2361,2733 2333,2751 2249,2742 2202,2758 2106,2742 2087,2764 1999,2767 1949,2748 1940,2748 1875,2773 1825,2754 1815,2754 1737,2776 1744,2829"/>
+                <Baseline points="1745,2831 2448,2801"/>
+                <TextEquiv>
+                    <Unicode>ܕܠܐ ܪܚ̈ܡ ܠܝ ܡܠܬܝ. ܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_7417194e" custom="readingOrder {index:31;} structure {type:DefaultLine;}">
+                <Coords points="1722,2882 1722,2904 1959,2926 1962,2926 2277,2892 2368,2910 2371,2910 2374,2910 2455,2879 2455,2854 2436,2807 1719,2832 1722,2882"/>
+                <Baseline points="1724,2884 2458,2857"/>
+                <TextEquiv>
+                    <Unicode>ܢ̇ܛܪ. ܘܡܠܬܐ ܗܕܐ ܕܫܡܥܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_88a03173" custom="readingOrder {index:32;} structure {type:DefaultLine;}">
+                <Coords points="1759,2882 1756,2882 1753,2882 1719,2898 1722,2948 1722,2998 1759,3017 1762,3017 1765,3017 1903,2995 2077,3013 2081,3013 2084,3013 2162,2992 2296,3007 2299,3007 2302,3007 2305,3007 2333,2988 2377,3007 2380,3007 2383,3007 2386,3007 2449,2985 2449,2935 2446,2889 2402,2873 2399,2873 2396,2873 2393,2873 2349,2892 2311,2873 2308,2873 2305,2873 2302,2873 2299,2873 2299,2876 2283,2889 2208,2876 2205,2876 2202,2876 2152,2895 2081,2882 2077,2882 1893,2901 1868,2882 1865,2882 1862,2882 1781,2882 1759,2882"/>
+                <Baseline points="1724,2951 2452,2936"/>
+                <TextEquiv>
+                    <Unicode>ܐܢܬܘܢ. ܠܐ ܗܘ̣ܬ ܕܝܠܝ. ܐܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:5;} structure {type:MarginTextZone;}">
+            <Coords points="1678,856 1756,856 1756,1028 1678,1028"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="1750,889 1694,882 1678,901 1678,920 1678,957 1678,992 1672,1026 1694,1038 1740,1007 1740,1004 1744,1004 1744,1001 1744,998 1744,995 1740,948 1772,882 1759,876 1753,873 1750,889"/>
+                <Baseline points="1673,1027 1761,879"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_c05b97a1" custom="readingOrder {index:6;} structure {type:MainZone;}">
+            <Coords points="1275,691 1546,659 1678,673 1686,2860 1649,3012 1065,3006 987,2951 965,732 1023,657 1218,671"/>
+            <TextLine id="eSc_line_118f1cc8" custom="readingOrder {index:0;} structure {type:DefaultLine;}">
+                <Coords points="1644,670 1613,667 1581,664 1550,661 1519,661 1488,667 1481,667 1453,686 1301,686 1269,689 1257,686 1219,686 1201,667 1176,667 1145,667 1123,664 1057,677 1032,658 1023,658 1020,736 1017,770 1054,789 1057,789 1060,789 1263,776 1350,792 1354,795 1469,795 1469,792 1472,792 1475,792 1497,773 1600,792 1603,792 1606,792 1678,770 1681,742 1681,683 1656,667 1644,670"/>
+                <Baseline points="1021,738 1684,744"/>
+                <TextEquiv>
+                    <Unicode>ܕܐܒܐ ܕܫܕܪܢܝ. ܗܠܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_133be223" custom="readingOrder {index:1;} structure {type:DefaultLine;}">
+                <Coords points="995,814 995,845 1042,867 1045,867 1048,870 1157,870 1157,867 1160,867 1163,867 1191,848 1216,867 1219,867 1223,867 1226,867 1678,848 1678,814 1678,773 1491,755 1488,755 1485,755 1481,755 1463,773 995,773 995,814"/>
+                <Baseline points="996,815 1680,817"/>
+                <TextEquiv>
+                    <Unicode>ܡ̈ܠܠܬ ܥܡܟܘܢ ܟܕ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_f57de9e9" custom="readingOrder {index:2;} structure {type:DefaultLine;}">
+                <Coords points="976,882 976,904 1179,926 1182,926 1272,911 1435,926 1438,926 1441,926 1500,904 1609,904 1631,926 1634,926 1637,926 1641,926 1644,926 1647,926 1672,904 1672,879 1662,833 973,836 976,882"/>
+                <Baseline points="977,886 1674,881"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬܟܘܢ ܐܝ̇ܬܝ. ܗܘ̣ ܕܝܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0731f6bb" custom="readingOrder {index:3;} structure {type:DefaultLine;}">
+                <Coords points="973,951 973,982 1170,1004 1173,1004 1332,985 1547,1004 1550,1004 1669,982 1669,951 1669,904 1625,886 1622,886 1619,886 1132,904 1023,886 1020,886 1017,886 973,904 973,951"/>
+                <Baseline points="975,952 1670,952"/>
+                <TextEquiv>
+                    <Unicode>ܦܪܩܠܛܐ ܪܘܚܐ ܕܩܘܕܫܐ:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_30cad34f" custom="readingOrder {index:4;} structure {type:DefaultLine;}">
+                <Coords points="973,1017 970,1042 1007,1063 1010,1063 1013,1063 1017,1063 1666,1051 1669,1023 1666,979 973,967 973,1017"/>
+                <Baseline points="975,1019 1672,1025"/>
+                <TextEquiv>
+                    <Unicode>ܗܘ̇ ܕܡܫܕܪ ܐܒܝ ܒܫܡܝ܆</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ec46a0e4" custom="readingOrder {index:5;} structure {type:DefaultLine;}">
+                <Coords points="970,1063 970,1085 967,1110 1017,1132 1020,1132 1023,1132 1344,1120 1360,1132 1360,1135 1363,1135 1366,1135 1369,1135 1672,1116 1675,1092 1675,1051 1606,1032 1603,1032 1600,1032 982,1042 970,1063"/>
+                <Baseline points="971,1087 1678,1092"/>
+                <TextEquiv>
+                    <Unicode>ܗܘ̣ ܢܠܦܟܘܢ ܟܠܡܕܡ. ܘܗܘ̣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9d97ba03" custom="readingOrder {index:6;} structure {type:DefaultLine;} sic {offset:8; length:4;}">
+                <Coords points="964,1110 964,1151 960,1173 1010,1201 1013,1201 1141,1204 1145,1207 1198,1207 1198,1204 1201,1204 1204,1204 1235,1179 1301,1179 1338,1207 1341,1207 1344,1207 1347,1207 1435,1191 1494,1210 1497,1210 1500,1210 1503,1210 1553,1185 1672,1185 1675,1163 1672,1113 967,1107 964,1110"/>
+                <Baseline points="967,1154 1676,1166"/>
+                <TextEquiv>
+                    <Unicode>ܢܥܗܕܟܘܢ ܟܠܡܐ ܕܐܡ̇ܪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_4077edd1" custom="readingOrder {index:7;} structure {type:DefaultLine;}">
+                <Coords points="1584,1163 1553,1163 1541,1163 1503,1185 1410,1185 1238,1160 1235,1160 1232,1160 1229,1160 1229,1163 1207,1182 960,1182 960,1226 957,1248 1160,1276 1163,1276 1485,1254 1616,1276 1619,1276 1622,1276 1669,1251 1672,1229 1669,1170 1591,1163 1584,1163"/>
+                <Baseline points="963,1229 1674,1231"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̣ܐ ܠܟܘܢ. ܫܠܡܐ ܫܒܩ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_642eea5e" custom="readingOrder {index:8;} structure {type:DefaultLine;}">
+                <Coords points="964,1294 964,1319 1060,1344 1063,1344 1207,1329 1591,1344 1594,1344 1597,1344 1678,1319 1678,1294 1675,1244 964,1244 964,1294"/>
+                <Baseline points="967,1297 1680,1297"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̣ܐ ܠܟܘܢ܆ ܫܠܡܐ ܕܝܠܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_386c0d05" custom="readingOrder {index:9;} structure {type:DefaultLine;}">
+                <Coords points="973,1363 970,1391 1007,1413 1010,1413 1013,1413 1017,1413 1060,1394 1132,1413 1135,1413 1138,1413 1672,1391 1675,1366 1675,1322 973,1313 973,1363"/>
+                <Baseline points="975,1364 1676,1368"/>
+                <TextEquiv>
+                    <Unicode>ܝܗܒ ܐܢ̣ܐ ܠܟܘܢ. ܠܐ ܗܘܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_5b5962cd" custom="readingOrder {index:10;} structure {type:DefaultLine;}">
+                <Coords points="1659,1388 982,1382 967,1400 967,1425 964,1453 1017,1472 1020,1472 1023,1472 1026,1472 1070,1457 1141,1475 1145,1475 1148,1475 1294,1463 1313,1478 1316,1478 1319,1478 1322,1478 1672,1463 1675,1438 1672,1425 1659,1388"/>
+                <Baseline points="969,1428 1678,1439"/>
+                <TextEquiv>
+                    <Unicode>ܐܝܟܢܐ ܕܝܗܒ ܥܠܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_583471a8" custom="readingOrder {index:11;} structure {type:DefaultLine;}">
+                <Coords points="1669,1457 976,1453 976,1500 973,1522 1029,1544 1032,1544 1035,1544 1173,1528 1194,1544 1198,1544 1201,1544 1204,1544 1207,1544 1210,1544 1235,1528 1326,1547 1329,1547 1403,1531 1644,1547 1647,1547 1650,1547 1653,1547 1672,1531 1675,1506 1672,1460 1669,1457"/>
+                <Baseline points="977,1503 1676,1508"/>
+                <TextEquiv>
+                    <Unicode>ܐܢ̇ܐ ܝܗܒ ܐܢ̣ܐ ܠܟܘܢ܀ ܠܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_8b15be26" custom="readingOrder {index:12;} structure {type:DefaultLine;}">
+                <Coords points="964,1563 960,1588 1073,1613 1076,1613 1223,1594 1416,1616 1419,1616 1678,1594 1681,1569 1678,1522 964,1519 964,1563"/>
+                <Baseline points="965,1566 1682,1572"/>
+                <TextEquiv>
+                    <Unicode>ܢܬܕܘܕ ܠܒܟܘܢ ܘܐܐ ܢܙܚ̤ܠ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_cf8379e0" custom="readingOrder {index:13;} structure {type:DefaultLine;}">
+                <Coords points="964,1644 964,1653 1029,1678 1032,1678 1035,1681 1319,1681 1319,1678 1322,1678 1391,1653 1678,1672 1681,1637 1675,1594 1329,1578 1326,1578 960,1597 964,1644"/>
+                <Baseline points="965,1645 1684,1641"/>
+                <TextEquiv>
+                    <Unicode>ܫܡܥܬܘܢ ܕܐܢ̇ܐ ܐܡ̇ܪܬ ܠܟܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0fec1de0" custom="readingOrder {index:14;} structure {type:DefaultLine;}">
+                <Coords points="967,1715 967,1740 1160,1740 1204,1759 1207,1759 1210,1759 1678,1750 1678,1715 1678,1669 1500,1647 1497,1647 1494,1647 1491,1647 1466,1669 1385,1669 1338,1647 1335,1647 1332,1647 1329,1647 1326,1647 1326,1650 1307,1666 1135,1650 1132,1650 1129,1650 1126,1650 1126,1653 1110,1669 967,1669 967,1715"/>
+                <Baseline points="969,1716 1680,1716"/>
+                <TextEquiv>
+                    <Unicode>ܕܐܙ̇ܠ ܐܢ̣ܐ ܘܐܬܐ ܐܢܐ ܠܘܬܟܘܢ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0257d998" custom="readingOrder {index:15;} structure {type:DefaultLine;}">
+                <Coords points="976,1778 973,1793 1173,1797 1213,1818 1216,1818 1219,1818 1672,1812 1675,1781 1672,1734 976,1731 976,1778"/>
+                <Baseline points="979,1780 1678,1784"/>
+                <TextEquiv>
+                    <Unicode>ܐܠܘ ܪܚ̇ܡܝܢ ܗܘܝܬܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c76d078b" custom="readingOrder {index:16;} structure {type:DefaultLine;}">
+                <Coords points="976,1850 973,1875 1029,1900 1032,1900 1035,1903 1269,1903 1269,1900 1363,1878 1438,1900 1441,1900 1444,1900 1575,1878 1631,1900 1634,1900 1637,1900 1641,1900 1644,1900 1678,1875 1681,1853 1681,1806 1616,1787 1613,1787 1609,1787 1606,1787 1603,1787 1584,1803 1541,1787 1538,1787 1535,1787 1531,1787 1485,1806 1329,1806 1307,1787 1304,1787 1301,1787 1297,1787 1226,1800 1204,1784 1201,1784 1198,1784 1194,1784 976,1800 976,1850"/>
+                <Baseline points="977,1851 1682,1855"/>
+                <TextEquiv>
+                    <Unicode>ܠܝ ܚܕܝܢ ܗܘܝܬܘܢ ܕܐܪܠ ܐܢ̣ܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1606b1a5" custom="readingOrder {index:17;} structure {type:DefaultLine;}">
+                <Coords points="967,1937 1145,1962 1148,1962 1151,1962 1194,1943 1294,1962 1297,1962 1301,1962 1363,1943 1416,1962 1419,1962 1422,1965 1644,1965 1644,1962 1647,1962 1650,1962 1678,1940 1681,1918 1678,1878 1301,1859 1297,1859 1294,1859 1291,1859 1263,1878 989,1878 979,1862 970,1915 967,1937"/>
+                <Baseline points="973,1917 1682,1921"/>
+                <TextEquiv>
+                    <Unicode>ܠܘܬ ܐܒܝ ܕܐܒܝ. ܪܒ ܗܘ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_433db144" custom="readingOrder {index:18;} structure {type:DefaultLine;}">
+                <Coords points="976,1978 973,2003 1026,2021 1029,2021 1032,2021 1391,2012 1472,2027 1475,2027 1678,2012 1681,1987 1681,1946 976,1931 976,1978"/>
+                <Baseline points="979,1980 1682,1990"/>
+                <TextEquiv>
+                    <Unicode>ܡܢܝ. ܘܗܫܐ ܗ̇ܐ ܐܡ̇ܪܬ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c67e2502" custom="readingOrder {index:19;} structure {type:DefaultLine;}">
+                <Coords points="970,2037 967,2062 1101,2093 1104,2093 1182,2081 1453,2102 1457,2102 1553,2081 1588,2106 1591,2106 1594,2106 1597,2106 1672,2099 1675,2056 1675,2012 970,1993 970,2037"/>
+                <Baseline points="973,2040 1676,2057"/>
+                <TextEquiv>
+                    <Unicode>ܠܟܘܢ ܥܕ ܠܐ ܢܗ̣ܘܐ. ܕܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_48ff97f3" custom="readingOrder {index:20;} structure {type:DefaultLine;}">
+                <Coords points="970,2106 967,2134 1057,2162 1060,2162 1063,2162 1388,2159 1553,2180 1556,2180 1669,2152 1672,2124 1669,2077 970,2065 970,2106"/>
+                <Baseline points="973,2109 1674,2125"/>
+                <TextEquiv>
+                    <Unicode>ܕܗܘ̣ܐ ܬܗܝܡܢܘܢ. ܡܟܝܠ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_6b1ca565" custom="readingOrder {index:21;} structure {type:DefaultLine;}">
+                <Coords points="973,2180 970,2199 1035,2202 1063,2230 1063,2233 1067,2233 1070,2233 1207,2237 1210,2240 1363,2240 1363,2237 1366,2237 1428,2212 1547,2212 1622,2240 1625,2240 1628,2240 1631,2240 1634,2240 1669,2212 1672,2190 1669,2143 973,2140 973,2180"/>
+                <Baseline points="975,2181 1674,2192"/>
+                <TextEquiv>
+                    <Unicode> ܠܐ ܐܡܠܠ ܥܡܟܘܢ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_654474fa" custom="readingOrder {index:22;} structure {type:DefaultLine;}">
+                <Coords points="1669,2215 1500,2196 1497,2196 1363,2215 1276,2199 1272,2199 973,2205 973,2255 970,2277 1326,2311 1329,2311 1675,2299 1678,2268 1675,2230 1669,2215"/>
+                <Baseline points="975,2256 1680,2269"/>
+                <TextEquiv>
+                    <Unicode>ܣ̈ܓܝܐܬܐ. ܐܬܐ ܓܝܪ ܐܪܟܘܢܗ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1d7f0758" custom="readingOrder {index:23;} structure {type:DefaultLine;}">
+                <Coords points="976,2321 976,2330 973,2352 1088,2374 1092,2374 1191,2361 1656,2377 1662,2336 1656,2280 992,2286 976,2321"/>
+                <Baseline points="979,2333 1666,2337"/>
+                <TextEquiv>
+                    <Unicode>ܪܥܠܡܐ. ܘܒܝ ܠܝܬ ܠܗ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_97d359b0" custom="readingOrder {index:24;} structure {type:DefaultLine;}">
+                <Coords points="973,2393 970,2427 1026,2446 1029,2446 1032,2446 1035,2446 1038,2446 1060,2427 1176,2430 1191,2446 1191,2449 1194,2449 1198,2449 1201,2449 1204,2449 1257,2433 1319,2452 1322,2452 1326,2452 1425,2433 1494,2455 1497,2455 1500,2455 1669,2436 1672,2405 1672,2364 973,2352 973,2393"/>
+                <Baseline points="975,2396 1674,2408"/>
+                <TextEquiv>
+                    <Unicode>ܡܕܡ. ܐܠܐ ܕ̤ܝܙܥ ܥܠܡܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_f5386262" custom="readingOrder {index:25;} structure {type:DefaultLine;}">
+                <Coords points="976,2467 973,2486 1251,2514 1254,2514 1341,2499 1366,2517 1369,2517 1372,2517 1375,2520 1438,2520 1438,2517 1441,2517 1444,2517 1444,2514 1460,2502 1475,2517 1478,2517 1481,2517 1485,2520 1591,2520 1591,2517 1594,2517 1672,2492 1675,2474 1675,2427 976,2421 976,2467"/>
+                <Baseline points="979,2471 1676,2475"/>
+                <TextEquiv>
+                    <Unicode>ܕܪܚܡ ܐܢ̇ܐ ܠܐܒ݂ܝ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e5e80458" custom="readingOrder {index:26;} structure {type:DefaultLine;}">
+                <Coords points="970,2530 967,2558 1079,2583 1082,2583 1185,2564 1307,2564 1319,2583 1322,2583 1322,2586 1326,2586 1329,2586 1332,2586 1681,2570 1684,2536 1681,2489 970,2486 970,2530"/>
+                <Baseline points="973,2533 1686,2539"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܝܟܢܐ ܕܦܩܕܢܝ ܐܒܝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_692e5aad" custom="readingOrder {index:27;} structure {type:DefaultLine;}">
+                <Coords points="970,2605 967,2620 1038,2645 1042,2645 1519,2648 1522,2648 1525,2648 1528,2648 1556,2630 1672,2630 1675,2611 1672,2567 970,2558 970,2605"/>
+                <Baseline points="971,2606 1676,2612"/>
+                <TextEquiv>
+                    <Unicode>ܗܟܘܬ ܥ̇ܒܕ ܐܢ̇ܐ. ܩܘ̣ܡܘ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_efaaba19" custom="readingOrder {index:28;} structure {type:DefaultLine;}">
+                <Coords points="989,2686 989,2711 1063,2711 1095,2729 1098,2729 1101,2729 1104,2729 1107,2729 1157,2711 1226,2733 1229,2733 1232,2733 1425,2711 1447,2726 1450,2726 1453,2726 1457,2726 1460,2726 1491,2711 1575,2729 1578,2729 1669,2717 1672,2680 1666,2636 1326,2614 1322,2614 1319,2614 1282,2630 1254,2617 1251,2617 1248,2617 1244,2617 1241,2617 1241,2620 1223,2636 1073,2617 1070,2617 985,2636 989,2686"/>
+                <Baseline points="992,2689 1674,2683"/>
+                <TextEquiv>
+                    <Unicode>ܢܐܙܠ ܡܟܐ܀ ܐܢ̇ܐ ܐܢ̣ܐ ܓܦܬܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_36368690" custom="readingOrder {index:29;} structure {type:DefaultLine;}">
+                <Coords points="979,2742 976,2767 1029,2786 1032,2786 1035,2786 1254,2773 1666,2792 1672,2748 1666,2692 979,2698 979,2742"/>
+                <Baseline points="981,2743 1674,2749"/>
+                <TextEquiv>
+                    <Unicode>ܕܫܪܪܐ ܘܐܒܝ ܗܘ ܦܠܚܐ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ab1bebee" custom="readingOrder {index:30;} structure {type:DefaultLine;}">
+                <Coords points="976,2807 973,2832 1026,2857 1029,2857 1032,2857 1035,2857 1107,2839 1238,2861 1241,2861 1457,2848 1497,2867 1500,2867 1503,2867 1675,2842 1678,2820 1678,2776 976,2764 976,2807"/>
+                <Baseline points="979,2810 1680,2822"/>
+                <TextEquiv>
+                    <Unicode>ܟܠ ܫܒܫܬܐ ܕܒܝ ܦܐܪ̈ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b6aef03a" custom="readingOrder {index:31;} structure {type:DefaultLine;}">
+                <Coords points="989,2873 985,2885 1076,2917 1079,2917 1082,2917 1085,2917 1088,2917 1123,2892 1213,2892 1288,2923 1291,2923 1447,2932 1450,2932 1675,2914 1678,2882 1675,2839 989,2817 989,2873"/>
+                <Baseline points="992,2876 1680,2884"/>
+                <TextEquiv>
+                    <Unicode>ܠܐ ܝ̇ܗܒܐ ܫ̇ܩܠ ܠܗ̇.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d2977771" custom="readingOrder {index:32;} structure {type:DefaultLine;}">
+                <Coords points="1669,2932 1650,2901 1013,2895 1013,2939 1010,3017 1672,3017 1675,2948 1672,2914 1669,2932"/>
+                <Baseline points="1015,2940 1676,2951"/>
+                <TextEquiv>
+                    <Unicode>ܘܐܝܕܐ ܕܝܗܒܐ ܦܐܪ̈ܐ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:7;} structure {type:NumberingZone;}">
+            <Coords points="829,487 1068,487 1068,628 829,628"/>
+        </TextRegion>
+    </Page>
+</PcGts>
